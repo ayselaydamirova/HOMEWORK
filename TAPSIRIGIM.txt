@@ -1,0 +1,6 @@
+1)/^([a-z0_9_\.-]+).[@]+[a-z\d\-.]+.[a-z]+\z/
+([a-zA-Z0-9_.+-]+)@[a-zA-Z0-9_.+-]+\.[a-zA-Z0-9_.+-]+
+aydamirovaaysel7@gmail.com
+2)/([a-zA-Z0-9_.+-]+)[a-zA-Z0-9_.+-]+\.[a-zA-Z0-9_.+-]+
+www.google.com
+3)
